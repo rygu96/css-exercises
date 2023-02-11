@@ -15,17 +15,15 @@ img {
 
 .plant-container {
   display: flex;
-  gap: 52px;
   margin-top: 32px;
   justify-content: center;
+  gap: 52px;
+
 }
 
 .plant {
   max-width: 200px;
-
 }
-
-
 
 
 /* do not edit this footer */
